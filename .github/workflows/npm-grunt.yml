@@ -16,4 +16,4 @@ jobs:
       - run: npm i
       - run: npm test
       - run: npm start
-      - run: cat output.json
+      - run: dir
